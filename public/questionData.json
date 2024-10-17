@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+    "multiple": false
+  },
+  {
+    "id": 2,
+    "question": "Which of the following are programming languages?",
+    "answers": ["Python", "HTML", "CSS", "Java"],
+    "multiple": true
+  },
+  {  
+    "id": 3,
+    "question": "What is the largest planet in our Solar System?",
+    "answers": ["Earth", "Jupiter", "Mars", "Saturn"],
+    "multiple": false
+  },
+  {
+    "id": 4,
+    "question": "Which of these fruits are tropical?",
+    "answers": ["Apple", "Mango", "Banana", "Strawberry"],
+    "multiple": true
+  },
+  {
+    "id": 5,
+    "question": "What year did the Titanic sink?",
+    "answers": ["1912", "1905", "1918", "1920"],
+    "multiple": false
+  }
+]
