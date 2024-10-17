@@ -55,7 +55,7 @@ const TestView: FC = () => {
     setActiveQuestion(activeQuestion + 1);
   };
 
-  const resetAnswers = (): void => {
+  const resetAnswers: () => void = () => {
     setAllAnswers([]);
     setCompleted(false);
     setActiveQuestion(0);
